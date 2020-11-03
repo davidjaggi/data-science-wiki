@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "data-science-wiki"
   spec.version       = "0.3.3"
   spec.authors       = ["David Jaggi"]
-  spec.email         = ["patrick.marsceill@gmail.com"]
+  spec.email         = [""]
 
   spec.summary       = %q{A modern, highly customizable, and responsive Jekyll theme for documention with built-in search.}
   spec.homepage      = "https://github.com/davidjaggi/data-science-wiki"
