@@ -1,9 +1,0 @@
-{
-	"name": "Ruby",
-	"dockerFile": "Dockerfile",
-	"appPort": 4000,
-	"extensions": [
-	],
-	"runArgs": [
-	]
-}
