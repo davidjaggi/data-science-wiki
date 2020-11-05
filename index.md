@@ -28,6 +28,7 @@ As a researcher at the interface between data science and finance, I find it imp
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+- [Free Docker Books on GitHub](https://github.com/anzhihe/Free-Docker-Books)
 
 ### Other Resources
 
