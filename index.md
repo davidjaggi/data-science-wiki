@@ -21,6 +21,7 @@ As a researcher at the interface between data science and finance, I find it imp
 
 ### Other Wikis
 
+- [Data Science on Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 - [Leo-G on GitHub](https://github.com/Leo-G/Data-Science-Wiki)
 
 ### Books
@@ -29,14 +30,20 @@ As a researcher at the interface between data science and finance, I find it imp
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 - [Free Docker Books on GitHub](https://github.com/anzhihe/Free-Docker-Books)
+- [Free Programming EBooks](https://github.com/EbookFoundation/free-programming-books)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
 
 ### Other Resources
 
 - [Towards Data Science](https://towardsdatascience.com/)
+- [Data Science Guide on GitHub](https://datascienceguide.github.io/outline)
 - [Papers with Code](https://paperswithcode.com/)
-- [Kaggle](https://www.kaggle.com/)
 - [R-Bloggers](https://www.r-bloggers.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [r/datascience on Reddit](https://www.reddit.com/r/datascience/)
+- [KDnuggets](https://www.kdnuggets.com/)
 
 ### Challenges
 
+- [Kaggle](https://www.kaggle.com/)
 - [crowdAI](https://www.crowdai.org/)

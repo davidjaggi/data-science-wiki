@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "data-science-wiki"
-  spec.version       = "0.3.3"
+  spec.version       = "0.0.1"
   spec.authors       = ["David Jaggi"]
   spec.email         = [""]
 
