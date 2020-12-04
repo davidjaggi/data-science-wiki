@@ -32,6 +32,7 @@ As a researcher at the interface between data science and finance, I find it imp
 - [Free Docker Books on GitHub](https://github.com/anzhihe/Free-Docker-Books)
 - [Free Programming EBooks](https://github.com/EbookFoundation/free-programming-books)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Think Python](http://greenteapress.com/thinkpython/html/index.html)
 
 ### Other Resources
 
@@ -42,6 +43,10 @@ As a researcher at the interface between data science and finance, I find it imp
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [r/datascience on Reddit](https://www.reddit.com/r/datascience/)
 - [KDnuggets](https://www.kdnuggets.com/)
+- [Real Python](https://realpython.com/)
+- [Learn Python](https://www.learnpython.org/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Markdown Monster](https://markdownmonster.west-wind.com/)
 
 ### Challenges
 
